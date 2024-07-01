@@ -1,5 +1,5 @@
 # UAS Pemrograman Mobile 
-## Catatan Keuangan
+## Aplikasi Catatan Keuangan
 
 ## Kelompok 
 ## Arie Miftah Budiman
